@@ -13,11 +13,11 @@ You need to modify original TOTEM cases with Fusion 360 or use PCB only.
 
 ## MANUFACTURING
 Manufacturing method is same as original. 
-If you want to get the PCB made you need to download the [ZIP](/PCB/totem_0-3/totem_chv2_gerbers.zip/) and upload it to the website of the manufacture 
+If you want to get the PCB made you need to download the [ZIP](/totem_0-3/totem_chv2_gerbers.zip/) and upload it to the website of the manufacture 
 I can recommend [JLCPCB](https://jlcpcb.com/), [Seeed Fusion](https://www.seeedstudio.com/fusion_pcb.html) or [PCBway](https://www.pcbway.com/).
 If you want the silkscreen in yellow [AllPCB](https://www.allpcb.com/online_pcb_quote_new.html) is a pretty affordable choice.
 
-- download [the ZIP file](/PCB/totem_0-3/totem_chv2_gerbers.zip/)
+- download [the ZIP file](/totem_0-3/totem_chv2_gerbers.zip/)
 - upload the ZIP file to the website of the manufacturer.
 - sometimes the Gerber preview from JLCPCB can't display the PCB, even when the files are fine. In this case use these dimensions: 258.7mm * 94.35mm
 - PCB Thickness 1.6mm
